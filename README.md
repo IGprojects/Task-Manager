@@ -7,6 +7,13 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+### Creación de Tareas y Categorias
+![Image text](https://github.com/IGprojects/Task-Manager/blob/master/Assets/Captura1.png)
+![Image text](https://github.com/IGprojects/Task-Manager/blob/master/Assets/Captura2.png)
+![Image text](https://github.com/IGprojects/Task-Manager/blob/master/Assets/Captura3.png)
+![Image text](https://github.com/IGprojects/Task-Manager/blob/master/Assets/Captura4.png)
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
