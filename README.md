@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-### Creación de Tareas y Categorias
+### CRUD de Tareas y Categorias
 ![Image text](https://github.com/IGprojects/Task-Manager/blob/master/Assets/Captura1.png)
 ![Image text](https://github.com/IGprojects/Task-Manager/blob/master/Assets/Captura2.png)
 ![Image text](https://github.com/IGprojects/Task-Manager/blob/master/Assets/Captura3.png)
